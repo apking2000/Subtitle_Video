@@ -5,4 +5,4 @@
 ### Run the main.py file and copy the url 
 ### I also provide the notebook you can access that notebook as well by installing all the dependencies.
 ### In output_videos there are some reuslt of the video with subtitle.
-### Here is the link you can refer to work with the tool and with the repo -> https://drive.google.com/file/d/1suhlgeXfmJBQ1leiLbuoTkGzkGSbieYK/view?usp=sharing
+### Here is the link you can refer to work with the tool and with the repo -> https://drive.google.com/file/d/11CO4P4QlJEH8PXZMLPbEr3bC4GrwLLel/view?usp=sharing
